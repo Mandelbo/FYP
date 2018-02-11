@@ -1,0 +1,32 @@
+ elements = wordChildren.Count;
+
+                AutomationElement[] wordElementArray = new AutomationElement[elements];
+                wordChildren.CopyTo(wordElementArray, 0);
+
+                //using (System.IO.StreamWriter output = new System.IO.StreamWriter(@"C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\buttonList.txt"))
+                for (int i = 0; i < elements; i++)
+                {
+                    Console.WriteLine(i + " " + wordElementArray[i].Current.Name);
+                    //output.WriteLine(i + " " + wordElementArray[i].Current.Name);
+
+                    //Select the given tab
+                    SelectionItemPattern selectTab;
+                    selectTab = wordElementArray[i].GetCurrentPattern(SelectionItemPattern.Pattern) as SelectionItemPattern;
+                    selectTab.Select();
+
+//Pull every element from the lower ribbon which is classified as a button.
+                    for(int j = 0; j < buttCount; j++)
+                    {
+                        if(scannedButtons[j] != null)
+                        {
+                            Console.WriteLine("  * " + scannedButtons[j].Current.Name);
+                            //output.WriteLine("  * " + scannedButtons[j].Current.Name);
+                        }
+                        /**if(scannedButtons[j].Current.Name == "Open")
+                        {
+                            InvokePattern activateButton;
+                            activateButton = scannedButtons[j].GetCurrentPattern(InvokePattern.Pattern) as InvokePattern;
+                            activateButton.Invoke();
+                        }**/
+                        
+                    }

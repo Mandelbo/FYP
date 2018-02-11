@@ -1,0 +1,7 @@
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\bin\Release\CommandExtractor.exe.config
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\bin\Release\CommandExtractor.exe
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\bin\Release\CommandExtractor.pdb
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Release\CommandExtractor.testForm.resources
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Release\CommandExtractor.csproj.GenerateResource.Cache
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Release\CommandExtractor.exe
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Release\CommandExtractor.pdb

@@ -1,0 +1,5 @@
+Issues to fix:
+
+- If the Word process the UI Filter is attached to is closed, the Filter crashes because it can no longer grab its bounding box. Make a way to detect when the process has been closed!
+- If the user opens a window in front of the Word process, but does not minimise it, the filter will still appear at the top of the Z-order, displaying over the new window. Find a way of detecting where the Word process is in the Z-order and always make sure the UI Filter is always one level above it.
+- Buttons can always be clicked on the filter regardless of whether or not they are actually currently invokable at the moment, and there is no feedback to indicate why there was no . The automation API can pull whether a button is active, so this could be used to grey out buttons on the filter as well.

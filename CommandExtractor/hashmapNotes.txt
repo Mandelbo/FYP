@@ -1,0 +1,3 @@
+- find the node of the tree which has the ribbon tabs in it. Select them all one by one.
+- after that, get the automation element collection for each lower ribbon instance. Return the enumerator for each, then iterate through it and add all automation elements to a hashmap. Maybe store the name of the tab as the first entry of the hashmap so it can be easily accessed.
+- **if i add the -automation element- for the given tab to the first element of the hashmap, would i need to navigate back to the ribbon tab node ever again? i'd only need to do the really big element scan and node traversal once, the rest would just be retrieval from the hashmaps**

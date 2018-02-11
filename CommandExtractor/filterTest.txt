@@ -1,0 +1,17 @@
+Paste
+Copy
+Cut
+Bold
+Italic
+Underline
+Font...
+Grow Font
+Shrink Font
+###
+Pictures...
+Style Set
+Page Setup...
+Paragraph...
+New Comment
+Show Comments
+Read Mode

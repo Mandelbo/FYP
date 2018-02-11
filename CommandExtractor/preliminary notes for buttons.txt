@@ -1,0 +1,15 @@
+﻿Things you need to do to get the buttons working
+
+- Are you going to make a button class and add as many buttons to the form as there are input commands, or are you going to make a form which already has twenty buttons, and just fill them with commands?
+- How are your buttons going to communicate with the inputParser?
+- Where is the form going to go? It probably makes sense for it to be a separate class - but then how will you set the details of each button?
+- At the moment, each button will have a command name, a tab name, and a hashtable index so that its command can be immediately jumped to - is there anything else it'll need?
+- In order to grab the tooltip and other information for each button, itemLookup will need to be performed before the buttons have been added. This means the itemLookup method will need to be modified so it
+	A. Does not invoke the buttons it finds
+	B. Returns the table and relevant index for each button
+  ...A separate method could be called to grab the tooltip information for each button
+- While setup is happening, probably have the filtered ribbon say something like "Setting up, please wait..." - must also have a way of re-running the WordFinder in case the ribbon is set to auto-hide, or the user initiates it too early
+
+-maybe write the hashmaps to file so that the itemLookup ONLY ever has to run once
+-change your hashtables such that there is ONLY one very long one - the key is the command, and the value is the tab the command is stored under. This means it should be marginally more efficient than it is now and probably making better use of the hashtables.
+-appears to only really be two different layouts for filters (one small, one large) - can feed the number of buttons into the form generator to decide which layout should be used, and then return a pre-filled form which can have the button information fed into it.

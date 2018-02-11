@@ -1,0 +1,125 @@
+0 Home
+  * Paste
+  * Cut
+  * Copy
+  * Format Painter
+  * Office Clipboard...
+  * Grow Font
+  * Shrink Font
+  * Clear Formatting
+  * Bold
+  * Italic
+  * Underline
+  * Strikethrough
+  * Subscript
+  * Superscript
+  * Font Color
+  * Font...
+  * Bullets
+  * Numbering
+  * Decrease Indent
+  * Increase Indent
+  * Sort...
+  * Show All
+  * Align Left
+  * Center
+  * Align Right
+  * Justify
+  * Shading
+  * Borders
+  * Paragraph...
+  * Row up
+  * Row Down
+  * Styles
+  * Find
+  * Replace...
+1 Insert
+  * Pictures...
+  * Online Pictures...
+  * SmartArt...
+  * Chart...
+  * Store
+  * My Add-ins
+  * Wikipedia
+  * Online Video...
+  * Comment
+  * Signature Line
+  * Date & Time...
+  * Object...
+  * Equation
+2 Design
+  * Style Set
+  * Set as Default
+  * Page Borders...
+3 Layout
+  * Page Setup...
+  * Paragraph...
+  * Bring Forward
+  * Send Backward
+  * Selection Pane...
+4 References
+  * Update Table...
+  * Insert Footnote
+  * Insert Endnote
+  * Next Footnote
+  * Show Notes
+  * Footnote and Endnote Dialog...
+  * Manage Sources...
+  * Insert Caption...
+  * Insert Table of Figures...
+  * Update Table
+  * Cross-reference...
+  * Mark Entry...
+  * Insert Index...
+  * Update Index
+  * Mark Citation...
+  * Insert Table of Authorities...
+  * Update Table
+5 Mailings
+  * Envelopes...
+  * Labels...
+  * Edit Recipient List...
+  * Highlight Merge Fields
+  * Address Block...
+  * Greeting Line...
+  * Insert Merge Field
+  * Match Fields...
+  * Update Labels
+  * Preview Results
+  * Find Recipient...
+  * Check for Errors...
+6 Review
+  * Spelling & Grammar
+  * Thesaurus...
+  * Word Count
+  * Smart Lookup
+  * New Comment
+  * Delete
+  * Previous
+  * Next
+  * Show Comments
+  * Track Changes
+  * Reviewing Pane
+  * Change Tracking Options...
+  * Accept and Move to Next
+  * Reject and Move to Next
+  * Block Authors
+  * Restrict Editing
+7 View
+  * Read Mode
+  * Print Layout
+  * Web Layout
+  * Outline
+  * Draft
+  * Zoom...
+  * 100%
+  * One Page
+  * Multiple Pages
+  * Page Width
+  * New Window
+  * Arrange All
+  * Split
+  * View Side by Side
+  * Synchronous Scrolling
+  * Reset Window Position
+  * View Macros

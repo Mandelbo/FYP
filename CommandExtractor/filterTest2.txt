@@ -1,0 +1,15 @@
+#LayoutConfiguration = a
+Insert Footnote
+Copy
+Bold
+Italic
+Underline
+Strikethrough
+#EndGroup
+
+Style Set
+Word Count
+New Comment
+Delete
+100%
+New Window

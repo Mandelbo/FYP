@@ -1,0 +1,9 @@
+#LayoutConfiguration = b
+Copy
+Paste
+Cut
+#EndGroup
+
+Underline
+Bold
+Italic

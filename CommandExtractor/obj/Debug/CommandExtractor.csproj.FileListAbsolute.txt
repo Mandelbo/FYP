@@ -1,0 +1,8 @@
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\bin\Debug\CommandExtractor.exe.config
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\bin\Debug\CommandExtractor.exe
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\bin\Debug\CommandExtractor.pdb
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Debug\CommandExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Debug\CommandExtractor.exe
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Debug\CommandExtractor.pdb
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Debug\CommandExtractor.testForm.resources
+C:\Users\Peter Dewhirst\Google Drive\IT for the Creative Industries\YEAR 3\FYP\Windows UI Testing\CommandExtractor\obj\Debug\CommandExtractor.csproj.GenerateResource.Cache

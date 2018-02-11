@@ -1,0 +1,159 @@
+0 Home
+  * Paste
+  * Cut
+  * Copy
+  * Format Painter
+  * Office Clipboard...
+  * Open
+  * Open
+  * Grow Font
+  * Shrink Font
+  * Clear Formatting
+  * Bold
+  * Italic
+  * Underline
+  * Strikethrough
+  * Subscript
+  * Superscript
+  * Font Color
+  * Font...
+  * Bullets
+  * Numbering
+  * Decrease Indent
+  * Increase Indent
+  * Sort...
+  * Show All
+  * Align Left
+  * Center
+  * Align Right
+  * Justify
+  * Shading
+  * Borders
+  * Paragraph...
+  * Row up
+  * Row Down
+  * Styles
+  * Styles...
+  * Find
+  * Replace...
+  * Pin the ribbon
+1 Insert
+  * Blank Page
+  * Page Break
+  * Pictures...
+  * Online Pictures...
+  * SmartArt...
+  * Chart...
+  * Store
+  * My Add-ins
+  * Wikipedia
+  * Online Video...
+  * Hyperlink...
+  * Bookmark...
+  * Cross-reference...
+  * Comment
+  * Signature Line
+  * Date & Time...
+  * Object...
+  * Equation
+  * Pin the ribbon
+2 Design
+  * Row up
+  * Row Down
+  * Style Set
+  * Set as Default
+  * Page Borders...
+  * Pin the ribbon
+3 Layout
+  * Page Setup...
+  * More
+  * Less
+  * More
+  * Less
+  * More
+  * Less
+  * More
+  * Less
+  * Paragraph...
+  * Bring Forward
+  * Send Backward
+  * Selection Pane...
+  * Pin the ribbon
+4 References
+  * Update Table...
+  * Insert Footnote
+  * Insert Endnote
+  * Next Footnote
+  * Show Notes
+  * Footnote and Endnote Dialog...
+  * Manage Sources...
+  * Open
+  * Insert Caption...
+  * Insert Table of Figures...
+  * Update Table
+  * Cross-reference...
+  * Mark Entry...
+  * Insert Index...
+  * Update Index
+  * Mark Citation...
+  * Insert Table of Authorities...
+  * Update Table
+  * Pin the ribbon
+5 Mailings
+  * Envelopes...
+  * Labels...
+  * Edit Recipient List...
+  * Highlight Merge Fields
+  * Address Block...
+  * Greeting Line...
+  * Insert Merge Field
+  * Match Fields...
+  * Update Labels
+  * Preview Results
+  * First
+  * Previous
+  * Next
+  * Last
+  * Find Recipient...
+  * Check for Errors...
+  * Pin the ribbon
+6 Review
+  * Spelling & Grammar
+  * Thesaurus...
+  * Word Count
+  * Smart Lookup
+  * New Comment
+  * Delete
+  * Previous
+  * Next
+  * Show Comments
+  * Track Changes
+  * Open
+  * Reviewing Pane
+  * Change Tracking Options...
+  * Accept and Move to Next
+  * Reject and Move to Next
+  * Previous
+  * Next
+  * Block Authors
+  * Restrict Editing
+  * Pin the ribbon
+7 View
+  * Read Mode
+  * Print Layout
+  * Web Layout
+  * Outline
+  * Draft
+  * Zoom...
+  * 100%
+  * One Page
+  * Multiple Pages
+  * Page Width
+  * New Window
+  * Arrange Icons
+  * Split
+  * View Side by Side
+  * Synchronous Scrolling
+  * Reset Window Position
+  * View Macros
+  * Pin the ribbon
